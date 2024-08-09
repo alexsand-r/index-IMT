@@ -10,11 +10,11 @@ function getImt() {
       2
     );
     if (isNaN(massa) || massa <= 0 || massa == "") {
-      console.log(" Введіть вагу у кілограмах");
+      console.log(" Введіть вагу в кілограмах");
 
       openPopup("massa");
     } else if (isNaN(height) || height <= 0 || height == "") {
-      console.log("Введіть зріст у сантіметрах");
+      console.log("Введіть зріст в сантіметрах");
       openPopup("height");
     } else {
       let resImt = (massa / (height * height)).toFixed(1);
