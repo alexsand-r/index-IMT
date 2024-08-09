@@ -64,9 +64,9 @@ function openPopup(argyment) {
   divRow.appendChild(message);
   message.classList.add("popup__text");
   if (argyment === "massa") {
-    message.textContent = "Введіть вагу у кілограмах";
+    message.textContent = "Введіть вагу в кілограмах";
   } else if (argyment === "height") {
-    message.textContent = "Введіть зріст у сантіметрах";
+    message.textContent = "Введіть зріст в сантіметрах";
   }
 }
 
