@@ -18,9 +18,9 @@ The project allows users to input their height and weight to compute their BMI a
 
 ## 🛠️ Technologies Used  
 
- **React** – For building the user interface.  
-- 🎨 **CSS** – For styling the application.  
-- 🌍 **GitHub Pages** – For hosting the application.  
+🖥️ HTML – For building the user interface (created with HTML).
+🎨 CSS – For styling the application.
+🌍 GitHub Pages – For hosting the application.
 
 
 
