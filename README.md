@@ -6,7 +6,7 @@
 </p>
 
 
-This is a **React** application for calculating the **Body Mass Index (BMI)**.  
+This is a HTML, CSS, and JavaScript application for calculating the Body Mass Index (BMI).
 The project allows users to input their height and weight to compute their BMI and provides an indication of their weight category based on the calculated value.
 🔗 Live Demo:([https://alexsand-r.github.io/imt/](https://alexsand-r.github.io/index-IMT/))
 
