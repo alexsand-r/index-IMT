@@ -1,4 +1,4 @@
-      # 🏋️‍♂️ BMI Calculator  
+     ## 🏋️‍♂️ BMI Calculator  
 
 <p align="center">
   <img src="img/Screenshot_10.png" alt="Image 1" width="400" height="400">
@@ -8,7 +8,7 @@
 
 This is a **React** application for calculating the **Body Mass Index (BMI)**.  
 The project allows users to input their height and weight to compute their BMI and provides an indication of their weight category based on the calculated value.
-🔗 Live Demo:
+🔗 Live Demo:[ alexsand-r.github.io/index-MT-react/](https://alexsand-r.github.io/imt/)
 
 ## 🚀 Features  
 
@@ -42,4 +42,4 @@ To get started with this project locally, follow these steps:
 
 💡 Feel free to explore the project and contribute! 🚀
 
-📫 Contact Me: 1inboxna@gmail.comWeb application for determining body mass index.
+📫 Contact Me: 1inboxna@gmail.com
