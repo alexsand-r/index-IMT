@@ -1,4 +1,4 @@
-     ## 🏋️‍♂️ BMI Calculator  
+## 🏋️‍♂️ BMI Calculator  
 
 <p align="center">
   <img src="img/Screenshot_10.png" alt="Image 1" width="400" height="400">
@@ -22,14 +22,7 @@ The project allows users to input their height and weight to compute their BMI a
 - 🎨 **CSS** – For styling the application.  
 - 🌍 **GitHub Pages** – For hosting the application.  
 
-## 📥 Installation  
 
-To get started with this project locally, follow these steps:  
-
-1. **Clone the Repository**  
-
-   ```bash
-   git clone https://github.com/alexsand-r/index-MT-react.git
 
 ## 📊 BMI Categories  
 
